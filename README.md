@@ -11,3 +11,6 @@ Technologies used:
 
 
 #JavaScript
+
+
+Deploy the project by clicking here : https://venom-knox.github.io/Counter/
