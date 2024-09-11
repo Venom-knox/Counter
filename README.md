@@ -5,5 +5,9 @@ This is a basic counter application that increments and decrements values based 
 Technologies used:
 
 #HTML
+
+
 #CSS
+
+
 #JavaScript
